@@ -1,3 +1,10 @@
+
+# ⚠️ Deprecated
+
+This project is deprecated and is no longer maintained.
+
+Please use [IESViewer360](https://github.com/changyunhai/IESViewer360) instead.
+
 # IES-light-simulator
 photometric light simulator in a room
 
